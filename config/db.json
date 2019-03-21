@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password": "tooristhur1234",
+    "username": "USER",
+    "password": "PASSWORD",
     "database": "aiva_dev",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "logging": false
   },
   "test": {
-    "username": "root",
-    "password": "tooristhur1234",
+    "username": "USER",
+    "password": "PASSWORD",
     "database": "aiva_test",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "logging": false
   },
   "production": {
-    "username": "root",
-    "password": "tooristhur1234",
+    "username": "USER",
+    "password": "PASSWORD",
     "database": "aiva_prod",
     "host": "127.0.0.1",
     "dialect": "mysql",
