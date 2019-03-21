@@ -11,6 +11,7 @@ from os.path import basename
 ioid = basename(__file__)  # 'hello.py'
 # Load the spacy english model
 nlp = spacy.load('en')
+# nlp = spacy.load('en_core_web_md')
 
 CONVO_CLASSES_PATH = path.join(
     path.dirname(__file__), '..', '..', 'data', 'convo_classes.json')

@@ -88,6 +88,7 @@ function ioStart() {
   polyIO.server({
     port: process.env.IOPORT,
     clientCount: CLIENT_COUNT,
+    //timeoutMs: 300000, //added value for making sure all components join on time.. current value 2'80".
     debug: process.env.npm_config_debug,
   })
   .then(ioClient)

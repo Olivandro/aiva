@@ -50,7 +50,7 @@
     "date.js": "^0.3.1",
     "express": "^4.13.4",
     "forever": "^0.15.2",
-    "hubot": "^2.18.0",
+    "hubot": "^3.3.1",
     "hubot-diagnostics": "0.0.1",
     "hubot-fb": "^5.0.0",
     "hubot-slack": "^4.0.2",
@@ -64,9 +64,9 @@
     "randombytes": "^2.0.3",
     "require-dir": "^0.3.0",
     "sequelize": "^3.24.3",
+    "snyk": "^1.41.1",
     "socket.io-client": "^2.0.2",
-    "winston": "^2.2.0",
-    "snyk": "^1.41.1"
+    "winston": "^2.2.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
@@ -82,7 +82,7 @@
     "istanbul": "^0.4.2",
     "mocha": "^3.0.2",
     "mocha-lcov-reporter": "^1.2.0",
-    "sequelize-cli": "^2.4.0",
+    "sequelize-cli": "^5.4.0",
     "sinon": "^1.17.6"
   },
   "engines": {
